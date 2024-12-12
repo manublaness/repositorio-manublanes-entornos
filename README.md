@@ -19,7 +19,19 @@ Este proyecto tiene como objetivo explorar cómo interactuar con APIs públicas 
    - **GitHub Copilot**: Para instalarlo, ve a la pestaña de **Extensiones** en Visual Studio Code, busca **GitHub Copilot** y haz clic en **Instalar**.
    - **EMMET**: Viene preinstalado en Visual Studio Code, pero si necesitas asegurarte de que está activado, revisa la sección de extensiones.
 
-### Pasos para configurar el proyecto:
-1. **Clona el repositorio**:
-   ```bash
-   git clone https://github.com/tu-usuario/api-explorer.git
+---
+
+### Explicación del contenido:
+
+- **Objetivo**: Explicamos de forma breve lo que se quiere lograr con el proyecto: la integración con una API y el uso de herramientas como GitHub Copilot y EMMET.
+- **Herramientas y Tecnologías**: Descripción de las herramientas utilizadas en el proyecto (Visual Studio Code, GitHub Copilot, EMMET y Node.js).
+- **Cómo configurar el proyecto**: Pasos para preparar el entorno local, clonar el repositorio, instalar dependencias y ejecutar el proyecto.
+- **Uso de GitHub Copilot**: Ejemplo de cómo GitHub Copilot ayudó a generar automáticamente código para interactuar con la API.
+- **Uso de EMMET**: Ejemplo de cómo EMMET ayuda a escribir HTML de forma más rápida mediante abreviaturas.
+- **Recursos utilizados**: Enlaces a la documentación de la API, Node.js, GitHub Copilot y EMMET.
+- **Conclusión**: Reflexión sobre cómo las herramientas mejoraron el proceso de desarrollo.
+
+---
+
+Este es un ejemplo detallado de cómo podrías llenar tu archivo `README.md`. Recuerda que puedes modificarlo y adaptarlo según el progreso y características adicionales de tu proyecto. ¡Espero que te sea útil!
+
